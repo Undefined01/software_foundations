@@ -6,7 +6,7 @@ Progress:
 - Logical Foundations
     - [x] [Functional Programming in Coq](lf/Basics.v)
     - [x] [Proof by Induction](lf/Induction.v)
-    - [ ] [Working with Structured Data](lf/Lists.v)
+    - [x] [Working with Structured Data](lf/Lists.v)
     - [ ] [Polymorphism and Higher-Order Functions](lf/Poly.v)
     - [ ] [More Basic Tactics](lf/Tactics.v)
     - [ ] [Logic in Coq](lf/Logic.v)
