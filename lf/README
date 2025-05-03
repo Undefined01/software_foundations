@@ -1,6 +1,8 @@
+Software Foundations Version 6.7.1 (2025-01-13 16:20, Coq 8.19.2 or later)
 
-
-Version 6.7.1 (2025-01-13 16:20, Coq 8.19.2 or later)
+Progress:
+- [x] [Basics](lf/Basics.v)
+- [x] [Induction](lf/Induction.v)
 
 NOTE:
 
