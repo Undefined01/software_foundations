@@ -1,3 +1,15 @@
+
+
+Version 6.7.1 (2025-01-13 16:20, Coq 8.19.2 or later)
+
+NOTE:
+
+This repository contains the solutions to the exercises in the Software Foundations course. The solutions are provided for self-study purposes and are not intended for submission or use in any academic setting.
+
+Do NOT use these solutions for your own work if you are attending Software Foundations course in university, they're WRONG and may not be the same as the ones you have in your course.
+
+Original README:
+
 #########################################################################
                            SOFTWARE FOUNDATIONS
 #########################################################################
