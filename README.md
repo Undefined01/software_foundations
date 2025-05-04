@@ -7,7 +7,7 @@ Progress:
     - [x] [Functional Programming in Coq](lf/Basics.v)
     - [x] [Proof by Induction](lf/Induction.v)
     - [x] [Working with Structured Data](lf/Lists.v)
-    - [ ] [Polymorphism and Higher-Order Functions](lf/Poly.v)
+    - [x] [Polymorphism and Higher-Order Functions](lf/Poly.v)
     - [ ] [More Basic Tactics](lf/Tactics.v)
     - [ ] [Logic in Coq](lf/Logic.v)
     - [ ] [Inductively Defined Propositions](lf/IndProp.v)
